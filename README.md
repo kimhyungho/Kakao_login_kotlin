@@ -130,6 +130,10 @@ ex) 네이티브 앱키가 n1a2t3iv4e5a6p7p8ke9y라면
 ```
         <data android:host="oauth"
                 android:scheme="kakaon1a2t3iv4e5a6p7p8ke9y" />
+                .
+                .
+                .
+         KakaoSdk.init(this, "n1a2t3iv4e5a6p7p8ke9y")
 ```
 로 입력해 주셔야 합니다.
 

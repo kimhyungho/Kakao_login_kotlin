@@ -127,12 +127,14 @@ class LoginActivity : AppCompatActivity() {
 공식 홈페이지에 나와있는 {NATIVE_APP_KEY}(중괄호 포함)을 native app key로 바꾸셔야합니다.
 
 ex) 네이티브 앱키가 n1a2t3iv4e5a6p7p8ke9y라면
+
+manifest
 ```
         <data android:host="oauth"
                 android:scheme="kakaon1a2t3iv4e5a6p7p8ke9y" />
-                .
-                .
-                .
+```
+GlobalApplication
+```
          KakaoSdk.init(this, "n1a2t3iv4e5a6p7p8ke9y")
 ```
 로 입력해 주셔야 합니다.

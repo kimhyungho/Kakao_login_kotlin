@@ -142,6 +142,6 @@ GlobalApplication
 ScreenShots
 -----------
 <div>
-<img whdth = "50" src = "https://github.com/kimhyungho/kakaologin/blob/master/image/1.JPG">
-<img whdth = "50" src = "https://github.com/kimhyungho/kakaologin/blob/master/image/2.JPG">
+<img width = "300" src = "https://github.com/kimhyungho/kakaologin/blob/master/image/1.JPG">
+<img width = "300" src = "https://github.com/kimhyungho/kakaologin/blob/master/image/2.JPG">
 <div>
